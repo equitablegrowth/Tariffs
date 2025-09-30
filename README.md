@@ -4,6 +4,8 @@ This repository hosts several datasets and code files to replicate the Equitable
 
 **Data Files**
 
+Tariff intermediate analysis industry codes.xlsx: A spreadsheet listing the handful of unique NAICS aggregations created for use at the 3-digit level analysis. These aggregations, also annotated in the Stata code files listed below, are necessary for linking the various datasets across differing original industrial codes and across the 2017 and 2022 NAICS vintages.
+
 Tariffs – Intermediate inputs analysis.do: A master code file that allows users to set characteristics of a desired dataset including year, industrial specificity, and geographic specificity.
 
 Matrices.do: a secondary code file called by the master file that crosswalks BEA codes to NAICS, aggregates to the industrial specificity set in the master file, and produces some initial variables.
