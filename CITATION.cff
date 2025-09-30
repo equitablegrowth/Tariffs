@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Equitable Growth Tariff Analysis
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Chris
+    family-names: Bangert-Drowns
+    email: cbangertdrowns@equitablegrowth.org
+    affiliation: Washington Center for Equitable Growth
+    orcid: 'https://orcid.org/0009-0006-7776-7455'
+repository-code: 'https://github.com/equitablegrowth/Tariffs'
+url: >-
+  https://equitablegrowth.org/tariffs-impact-u-s-industries-differently-with-manufacturing-the-most-exposed/
