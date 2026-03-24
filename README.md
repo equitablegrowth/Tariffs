@@ -1,6 +1,6 @@
 # Tariffs
 
-This repository hosts several datasets and code files to replicate the Equitable Growth tariff project. The project produces a baseline estimate of costs facing U.S. industries from tariffs on imported inputs, before any adjustments are made to compensate for or pass down those costs. All files here can also be found in a [Dropbox folder here]([url](https://www.dropbox.com/scl/fo/1rb2erl8e5wgvce89w3yh/AP6pY1f5lDklUKA3O1bB8G8?rlkey=tygj3ww0sacmnirvklwtv4jdv&st=beek4jl1&dl=0)). The employment data files are too large to upload to GitHub and are only stored on Dropbox.
+This repository hosts several datasets and code files to replicate the Equitable Growth tariff project. The project produces a baseline estimate of costs facing U.S. industries from tariffs on imported inputs, before any adjustments are made to compensate for or pass down those costs. The employment data files are too large to upload to GitHub and are stored in a [Dropbox folder here]([url](https://www.dropbox.com/scl/fo/pof403lh8kl1e4wd7op7m/AM6LjgC-MvJD_BnRq7MJS5o?rlkey=b0l1zwdua3fv5vmfzop6ugreg&st=kpe6rfx3&dl=0)).
 
 **Citations**
 
